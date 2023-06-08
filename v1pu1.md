@@ -31,7 +31,7 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1pu1&theme=dark)](https://github.com/v1pu1/github-readme-stats)
 <img src = "https://github-readme-stats.vercel.app/api?username=v1pu1&show_icons=true&theme=dark" width = 500>
