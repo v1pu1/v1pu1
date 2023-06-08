@@ -38,12 +38,9 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 
 <img src = "https://github-readme-stats.vercel.app/api?username=v1pu1&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1pu1&theme=dark)](https://github.com/v1pu1/github-readme-stats)
+<p align = "left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1pu1&theme=dark)](https://github.com/v1pu1/github-readme-stats)</>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/v1pu1)
 
 ---
-
-Credit: [v1pu1](https://github.com/v1pu1)
-
 Last Edited on: 1/06/2023
