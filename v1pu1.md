@@ -33,11 +33,11 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 
 
 <br>
-
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=v1pu1&show_icons=true&theme=dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1pu1&theme=dark)](https://github.com/v1pu1/github-readme-stats)
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=v1pu1&theme=dark&hide_border=false" width = 500>
-<img align='right' src = "https://github-readme-stats.vercel.app/api?username=v1pu1&show_icons=true&theme=dark" width = 500>
+
 
 
 
