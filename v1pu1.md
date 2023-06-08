@@ -24,15 +24,12 @@
 <img src="https://komarev.com/ghpvc/?username=v1pu1&style=plastic" />
 
 I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
-<img align='right' src="https://media.licdn.com/dms/image/C4E03AQFC6mN7kjehsA/profile-displayphoto-shrink_800_800/0/1607513228777?e=1691625600&v=beta&t=G6FouIGLKKeXIoJMJ3EUv1jpx9S4gKC0Gg-aWCPjnAs" width="250" height="210">
+<img align='right' src="https://i.stack.imgur.com/frlIf.png" width="250" height="210">
 
 - 🌱 I’m currently focusing on **Machine Learning & Web Dev** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
-
-
-<h3 align="left">Languages and Tools:</h3>
 
 
 <br>
