@@ -2,18 +2,6 @@
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-bawankar-253215201/)
 [![Codeforces badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/wet_bed)
-<img src="https://komarev.com/ghpvc/?username=v1pu1&style=plastic" />
-
-I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
-<img align='right' src="https://media.licdn.com/dms/image/C4E03AQFC6mN7kjehsA/profile-displayphoto-shrink_800_800/0/1607513228777?e=1691625600&v=beta&t=G6FouIGLKKeXIoJMJ3EUv1jpx9S4gKC0Gg-aWCPjnAs" width="250" height="210">
-
-- 🌱 I’m currently focusing on **Machine Learning & Web Dev** and practicing **Data Structures and Algorithms** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
-
-
-<h3 align="left">Languages and Tools:</h3>
 [![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Javascript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
@@ -32,6 +20,19 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 [![Postman badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Selenium badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]()
+
+<img src="https://komarev.com/ghpvc/?username=v1pu1&style=plastic" />
+
+I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
+<img align='right' src="https://media.licdn.com/dms/image/C4E03AQFC6mN7kjehsA/profile-displayphoto-shrink_800_800/0/1607513228777?e=1691625600&v=beta&t=G6FouIGLKKeXIoJMJ3EUv1jpx9S4gKC0Gg-aWCPjnAs" width="250" height="210">
+
+- 🌱 I’m currently focusing on **Machine Learning & Web Dev** and practicing **Data Structures and Algorithms** everyday.
+- 💬 I’m looking forward to contribute to **Open Source Projects**.
+
+- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+
+
+<h3 align="left">Languages and Tools:</h3>
 
 
 <br>
