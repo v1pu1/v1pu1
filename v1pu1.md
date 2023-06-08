@@ -2,10 +2,10 @@
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-bawankar-253215201/)
 [![Codeforces badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/wet_bed)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=v1pu1&style=plastic" />
 
 I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
+<img align='right' src="https://media.licdn.com/dms/image/C4E03AQFC6mN7kjehsA/profile-displayphoto-shrink_800_800/0/1607513228777?e=1691625600&v=beta&t=G6FouIGLKKeXIoJMJ3EUv1jpx9S4gKC0Gg-aWCPjnAs" width="250" height="210">
 
 - 🌱 I’m currently focusing on **Machine Learning & Web Dev** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
@@ -32,6 +32,6 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 
 ---
 
-Credit: [tanyagupta0201](https://github.com/v1pu1)
+Credit: [v1pu1](https://github.com/v1pu1)
 
 Last Edited on: 1/06/2023
