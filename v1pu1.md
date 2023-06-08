@@ -34,8 +34,6 @@ I'm a Fourth year DSAI undergraduate pursuing B.Tech and a passionate programmer
 
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=v1pu1&theme=react-dark)
-
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=v1pu1&theme=dark&hide_border=false" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=v1pu1&show_icons=true&theme=dark" width = 500>
